@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=dwm-gnome
+NoDisplay=true
+Exec=dwm-gnome
+X-GNOME-WMName=dwm-gnome
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
